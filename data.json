@@ -1,0 +1,82 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Movie Zone",
+            "description": "Search for Movies and TV Shows",
+            "image": "",
+            "github": "https://github.com/theAspiringDev1/MovieZone",
+            "demo": "https://movie-zone-opal.vercel.app",
+            "color": "#e43f5a"
+        },
+        {
+            "id": 2,
+            "title": "Find Meow",
+            "description": "A place you can use to help find your pet",
+            "image": "",
+            "github": "https://github.com/theAspiringDev1/findmeow-front",
+            "demo": "https://findmeow.vercel.app",
+            "color": "#f16292"
+        },
+        {
+            "id": 3,
+            "title": "Git Profiler",
+            "description": "A creative way to show your github stats",
+            "image": "",
+            "github": "https://github.com/theAspiringDev1/git-profiler",
+            "demo": "https://git-profiler.vercel.app",
+            "color": "#3498db"
+        },
+        {
+            "id": 4,
+            "title": "Portfolio V1",
+            "description": "The first iteration of my portfolio",
+            "image": "",
+            "github": "https://github.com/theAspiringDev1/react-portfolio",
+            "demo": "https://norbertoignacio-v1.vercel.app",
+            "color": "#2980b9"
+        }
+    ],
+    "tech": [
+        {
+            "id": 1,
+            "title": "Javascript",
+            "color": "#f7df1e"
+        },
+        {
+            "id": 2,
+            "title": "React",
+            "color": "#61DBFB"
+        },
+        {
+            "id": 3,
+            "title": "Tailwind",
+            "color": "#38b2ac"
+        },
+        {
+            "id": 4,
+            "title": "Styled Components",
+            "color": "#db7093"
+        },
+        {
+            "id": 5,
+            "title": "Scss / Sass",
+            "color": "#c69"
+        },
+        {
+            "id": 6,
+            "title": "MongoDB",
+            "color": "#00ED64"
+        },
+        {
+            "id": 7,
+            "title": "Node",
+            "color": "#3c873a"
+        },
+        {
+            "id": 8,
+            "title": "Git",
+            "color": "#f05032"
+        }
+    ]
+}
