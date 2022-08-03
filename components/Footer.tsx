@@ -14,7 +14,7 @@ export default function Footer() {
             </a>
 
             <div className="flex item-center pt-4">
-                <p>2022 Norberto Ignacio</p>
+                <p className="text-gray-400">2022 Norberto Ignacio</p>
             </div>
         </footer>
     );
