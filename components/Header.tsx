@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { FaEnvelope, FaGithub, FaTwitter } from "react-icons/fa";
+import { FaEnvelope, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 let logoSize = 40;
 let imageSize = 120;
@@ -52,6 +52,15 @@ export default function Header() {
                             target="_blank"
                         >
                             <FaTwitter />
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            className="text-4xl hover:text-blue-500 duration-300"
+                            href="https://www.linkedin.com/in/norberto-ignacio-0678111b0/"
+                            target="_blank"
+                        >
+                            <FaLinkedin />
                         </a>
                     </li>
                     <li>
